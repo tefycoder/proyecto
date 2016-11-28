@@ -1,0 +1,67 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+#clases{
+	background-color: firebrick;
+	text-align: center;
+	padding: 60px;
+}
+.lecciones{
+	display: inline-block;
+	width: 300px;
+	height: 400px;
+	margin: 20px;
+}
+.ballet{
+	background: url("../img/logo2.jpg") no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+.danza{
+	padding: 20px;
+	margin: 15px;
+	position: relative;
+	top: 150px;
+	color: #fff;
+	background: rgba(47, 47, 47, 0.7);
+}
+.danza h4{
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+.danza p{
+	font-size: 13px;
+}
+.modern{
+	background: url("../img/ambientes/auditorio.jpg") no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+.jazz{
+	background: url("../img/logo2.jpg") no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+.arabic{
+	background: url("../img/deportes/Imagen7.jpg") no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+.kids{
+	background: url("../img/logo%20de%20caballeria.jpg") no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+.yoga{
+	background: url("../img/ambientes/sala%20odontologica.jpg") no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}

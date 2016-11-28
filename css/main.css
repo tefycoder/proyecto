@@ -1,0 +1,102 @@
+/*Esta es la parte de la PRESENTACION*/
+*
+{
+  margin: 0;
+  padding: 0;
+  
+    
+}
+
+.presentacion
+{
+	background: url("../img/fondo%20principal.jpg") no-repeat;
+	background-size: cover;
+	background-position: top;
+	height: 600px;
+	color: #D8D8D8;
+	padding-top: 50px;
+}
+
+.icons{
+ 
+  margin: 4em 4em 6em 0;
+     padding-top: %;
+    padding-right: 40%;
+  
+	} 
+
+.presentacion input
+{ 
+	background-color: #6A0915; 
+	border:none; 
+	color: white;
+    padding-top: -50%;
+    padding-bottom: 5%;
+}
+.presentacion h1{
+	font-size: 60px;
+    text-align: center;
+}
+.presentacion p{
+	width: 280px;
+	font-size: 12px;
+}
+/*Esta es la parte de la OFERTA*/
+.oferta
+{
+	background: url("../img/color%20gin.jpg") no-repeat;
+	background-size: cover;
+}
+.oferta .Juilliart{ margin: 96px 0px; }
+.oferta .Juilliart img{ height: 600px; width: 500px; margin-top:-1px;}
+
+.oferta .Juilliart p input
+{
+	background-color: #6A0915; 
+	color: white;  
+	height: 60px; 
+	width: 500px;
+}
+/*Esta es la parte de los PROFESORES*/
+.instructores{ height: 500px; }
+.instructores .img_instructor{
+	background: url("../img/10.jpg") no-repeat;
+	background-size:cover;
+	background-position: left;
+	height: 1000px;
+}
+.instructores .img_profesor{
+	background: url("../img/A.jpg") no-repeat;
+	background-size: cover;
+	background-position: top;
+	height: 1000px;
+}
+.instructores input
+{ 
+	width: 500px; 
+	height: 40px; 
+	position: relative; 
+	bottom: 40px; 
+	border:none;
+	background-color:#6A0915;
+	color: white; 
+}
+
+/*Esta es la seccion de VISITANOS*/
+.visitanos { background-color:#6A0915; color: white; }
+.visitanos #mapa
+{  
+	outline: 3px solid green; 
+	width: 500px; 
+	height: 300px;
+ 	margin: 70px 40px ;
+}
+#mapa iframe{width: 100%; height: 100%;}
+.visitanos .lorem
+{
+	margin: 80px 80px 50px 80px;
+}
+.visitanos .direccion
+{
+	margin-left:80px;
+}
